@@ -1,1 +1,67 @@
 theme: jekyll-theme-hacker
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+html {
+  
+  background: url(glass.jpg) no-repeat center fixed;
+  
+  background-size: cover;
+  }
+body {
+  
+  color: white;
+  }
+#x {
+    style="center"
+}
+</style>
+
+</head>
+
+<body>
+
+
+<audio controls autoplay loop>
+  
+  <source src="xx.ogg" type="audio/ogg">
+  
+  <source src="xx.mp3" type="audio/mpeg">
+
+  Your browser does not support the audio element.
+
+</audio>
+
+<hr>
+
+<br>
+
+<br>
+	
+</form>
+
+<form action="file:///C:/Users/CRONA/Desktop/pjt/1.html">
+
+    <input type="submit" value="Home">
+	
+</form>
+
+<form action="file:///C:/Users/CRONA/Desktop/pjt/2.html">
+
+    <input type="submit" value="page2">
+	
+</form>
+
+<form action="file:///C:/Users/CRONA/Desktop/pjt/3.html">
+
+    <input type="submit" value="page3">
+	
+</form>
+
+</body>
+
+</html>
